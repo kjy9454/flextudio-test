@@ -49,8 +49,9 @@ src/
 [
   { id: "1", type: "group", parentId: null },
   { id: "2", type: "text", parentId: "1" },
-  { id: "3", type: "input", parentId: "1" }
-]
+  { id: "3", type: "input", parentId: "1" },
+];
+```
 
 #### 장점
 
@@ -72,8 +73,3 @@ src/
 - **ESLint**: 코드 품질 및 일관성 유지
 - **모듈화**: 기능별 파일 분리
 - **Custom Hooks**: 로직 재사용성 향상
-```
-
-```
-
-```
